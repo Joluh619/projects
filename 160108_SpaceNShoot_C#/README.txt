@@ -7,6 +7,8 @@ At the beginning and every time you respawn there will be a moment when you're p
 
 The game ends when the player´s life counter reaches Zero.
 
+NOTE: To get the proper solution in visual studio, you'll need to make a new soluiton and choose a monogame template for a windows aplication. Then just copy and paste the files into the project and all the media in the content file provided by the monogame template.  
+
 Programming Language: C#
 Developed in MonoGame
 December 3, 2019
